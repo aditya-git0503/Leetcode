@@ -12,6 +12,9 @@ public:
                 sum = 0;
             }
         }
+        if(maxSum < 0){
+            maxSum = 0;
+        }
         return maxSum;
     }
 };
