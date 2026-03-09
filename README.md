@@ -10,5 +10,10 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aditya-git0503/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-git0503/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aditya-git0503/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
