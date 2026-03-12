@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/aditya-git0503/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya-git0503/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/aditya-git0503/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0796-rotate-string](https://github.com/aditya-git0503/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/aditya-git0503/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -53,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aditya-git0503/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/aditya-git0503/Leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
