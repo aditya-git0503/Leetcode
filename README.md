@@ -62,4 +62,5 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/aditya-git0503/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1669-merge-in-between-linked-lists](https://github.com/aditya-git0503/Leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 <!---LeetCode Topics End-->
