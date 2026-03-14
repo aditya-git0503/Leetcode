@@ -68,4 +68,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aditya-git0503/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3862-find-the-smallest-balanced-index](https://github.com/aditya-git0503/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3862-find-the-smallest-balanced-index](https://github.com/aditya-git0503/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 <!---LeetCode Topics End-->
