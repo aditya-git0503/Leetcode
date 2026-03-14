@@ -61,6 +61,11 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aditya-git0503/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/aditya-git0503/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/aditya-git0503/Leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aditya-git0503/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
