@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-git0503/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aditya-git0503/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/aditya-git0503/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/aditya-git0503/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aditya-git0503/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aditya-git0503/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1922-count-good-numbers](https://github.com/aditya-git0503/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
