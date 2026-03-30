@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aditya-git0503/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/aditya-git0503/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aditya-git0503/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya-git0503/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aditya-git0503/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/aditya-git0503/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [3862-find-the-smallest-balanced-index](https://github.com/aditya-git0503/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -104,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aditya-git0503/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aditya-git0503/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
