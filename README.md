@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/aditya-git0503/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/aditya-git0503/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/aditya-git0503/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
