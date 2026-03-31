@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/aditya-git0503/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/aditya-git0503/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/aditya-git0503/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aditya-git0503/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aditya-git0503/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/aditya-git0503/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-git0503/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [3862-find-the-smallest-balanced-index](https://github.com/aditya-git0503/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Prefix Sum
@@ -114,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-git0503/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/aditya-git0503/Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
