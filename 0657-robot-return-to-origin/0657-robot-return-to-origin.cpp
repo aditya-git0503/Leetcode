@@ -3,20 +3,18 @@ public:
     bool judgeCircle(string moves) {
         int a = 0;
         int b = 0;
-        int c = 0;
-        int d = 0;
 
         for(char ch : moves){
             if(ch == 'R')
                 a++;
             else if(ch == 'L')
-                b++;
+                a--;
             else if(ch == 'U')
-                c++;
+                b++;
             else if(ch == 'D')
-                d++;
+                b--;
         }
-        if((a == b) && (c == d))
+        if((a == 0) && (b == 0))
             return true;
         return false;
     }
