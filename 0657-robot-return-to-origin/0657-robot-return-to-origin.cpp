@@ -14,8 +14,6 @@ public:
             else if(ch == 'D')
                 b--;
         }
-        if((a == 0) && (b == 0))
-            return true;
-        return false;
+        return (a == 0 && b == 0);
     }
 };
