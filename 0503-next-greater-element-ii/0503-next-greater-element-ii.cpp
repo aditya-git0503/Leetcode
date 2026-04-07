@@ -5,14 +5,6 @@ public:
         vector<int> ans(n, -1);
         stack<int> st;
 
-        // for(int i=0; i<n-1; i++){
-        //     if(nums[i] > nums[n-1]){
-        //         ans[n-1] = nums[i];
-        //         break;
-        //     }
-        // }
-        // st.push(nums[n-1]);
-
         for (int i = n - 1; i >= 0; i--) {
             while (!st.empty() && st.top() <= nums[i]) {
                 st.pop();
