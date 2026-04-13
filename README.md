@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/aditya-git0503/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/aditya-git0503/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/aditya-git0503/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/aditya-git0503/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aditya-git0503/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/aditya-git0503/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-git0503/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aditya-git0503/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/aditya-git0503/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/aditya-git0503/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
