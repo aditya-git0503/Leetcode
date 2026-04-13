@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/aditya-git0503/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/aditya-git0503/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/aditya-git0503/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aditya-git0503/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/aditya-git0503/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-git0503/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/aditya-git0503/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3862-find-the-smallest-balanced-index](https://github.com/aditya-git0503/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -173,4 +175,9 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-git0503/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/aditya-git0503/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/aditya-git0503/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
