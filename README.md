@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/aditya-git0503/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-git0503/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya-git0503/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0402-remove-k-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aditya-git0503/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/aditya-git0503/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/aditya-git0503/Leetcode/tree/main/0796-rotate-string/) | Easy |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/aditya-git0503/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/aditya-git0503/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aditya-git0503/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aditya-git0503/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/aditya-git0503/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aditya-git0503/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aditya-git0503/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/aditya-git0503/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
