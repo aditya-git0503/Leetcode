@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/aditya-git0503/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya-git0503/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0402-remove-k-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/aditya-git0503/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aditya-git0503/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/aditya-git0503/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/aditya-git0503/Leetcode/tree/main/0796-rotate-string/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/aditya-git0503/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya-git0503/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/aditya-git0503/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aditya-git0503/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aditya-git0503/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aditya-git0503/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-git0503/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/aditya-git0503/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-git0503/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
