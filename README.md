@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/aditya-git0503/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/aditya-git0503/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-git0503/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0198-house-robber](https://github.com/aditya-git0503/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aditya-git0503/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/aditya-git0503/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/aditya-git0503/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/aditya-git0503/Leetcode/tree/main/0198-house-robber/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
