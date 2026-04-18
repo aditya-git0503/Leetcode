@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/aditya-git0503/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/aditya-git0503/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aditya-git0503/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/aditya-git0503/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
