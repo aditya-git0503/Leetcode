@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1922-count-good-numbers](https://github.com/aditya-git0503/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aditya-git0503/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya-git0503/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/aditya-git0503/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/aditya-git0503/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/aditya-git0503/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/aditya-git0503/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
