@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/aditya-git0503/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/aditya-git0503/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/aditya-git0503/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-git0503/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/aditya-git0503/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-git0503/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aditya-git0503/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-git0503/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/aditya-git0503/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditya-git0503/Leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aditya-git0503/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-git0503/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-git0503/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
