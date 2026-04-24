@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/aditya-git0503/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/aditya-git0503/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aditya-git0503/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/aditya-git0503/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aditya-git0503/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aditya-git0503/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/aditya-git0503/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
