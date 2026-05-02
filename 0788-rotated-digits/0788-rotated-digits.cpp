@@ -30,7 +30,6 @@ public:
                 continue;
             else if(str != func(str)){
                 ans++;
-                cout<<str<<endl;
             }
         }
         return ans;
