@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-git0503/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/aditya-git0503/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/aditya-git0503/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/aditya-git0503/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0788-rotated-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0788-rotated-digits/) | Medium |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/aditya-git0503/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/aditya-git0503/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aditya-git0503/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/aditya-git0503/Leetcode/tree/main/0078-subsets/) | Medium |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/aditya-git0503/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aditya-git0503/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
