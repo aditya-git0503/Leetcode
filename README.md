@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/aditya-git0503/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/aditya-git0503/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/aditya-git0503/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0091-decode-ways](https://github.com/aditya-git0503/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/aditya-git0503/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya-git0503/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0402-remove-k-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-git0503/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/aditya-git0503/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/aditya-git0503/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/aditya-git0503/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0396-rotate-function](https://github.com/aditya-git0503/Leetcode/tree/main/0396-rotate-function/) | Medium |
