@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/aditya-git0503/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya-git0503/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aditya-git0503/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aditya-git0503/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/aditya-git0503/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/aditya-git0503/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aditya-git0503/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/aditya-git0503/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-git0503/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-git0503/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0055-jump-game](https://github.com/aditya-git0503/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/aditya-git0503/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/aditya-git0503/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/aditya-git0503/Leetcode/tree/main/0198-house-robber/) | Medium |
