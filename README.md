@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-git0503/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/aditya-git0503/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/aditya-git0503/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/aditya-git0503/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/aditya-git0503/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/aditya-git0503/Leetcode/tree/main/0091-decode-ways/) | Medium |
