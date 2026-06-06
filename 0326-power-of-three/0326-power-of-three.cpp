@@ -4,10 +4,10 @@ public:
         if(n <= 0){
             return false;
         }
-        int x = 1162261467;
-        if(x % n){
-            return false;
+
+        if(ceil(log10(n)/log10(3)) == floor(log10(n)/log10(3))){
+            return true;
         }
-        return true;
+        return false;
     }
 };
