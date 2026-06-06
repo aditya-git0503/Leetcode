@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/aditya-git0503/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/aditya-git0503/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/aditya-git0503/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0396-rotate-function](https://github.com/aditya-git0503/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/aditya-git0503/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -216,10 +217,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aditya-git0503/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aditya-git0503/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-git0503/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,4 +297,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/aditya-git0503/Leetcode/tree/main/0139-word-break/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
