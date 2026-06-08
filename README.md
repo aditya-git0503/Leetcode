@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/aditya-git0503/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aditya-git0503/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/aditya-git0503/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-git0503/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Hash Table
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2615-sum-of-distances](https://github.com/aditya-git0503/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-git0503/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aditya-git0503/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aditya-git0503/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2615-sum-of-distances](https://github.com/aditya-git0503/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-git0503/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aditya-git0503/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-git0503/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-git0503/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2121-intervals-between-identical-elements](https://github.com/aditya-git0503/Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/aditya-git0503/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/aditya-git0503/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3862-find-the-smallest-balanced-index](https://github.com/aditya-git0503/Leetcode/tree/main/3862-find-the-smallest-balanced-index/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -288,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/aditya-git0503/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aditya-git0503/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-git0503/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/aditya-git0503/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Memoization
@@ -298,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-git0503/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
