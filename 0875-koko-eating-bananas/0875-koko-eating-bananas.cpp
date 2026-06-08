@@ -1,36 +1,37 @@
 class Solution {
 public:
-
-    long long check(vector<int>& piles, int k, int n){
-        long long ans = 0;
-        for(int i : piles){
-            ans += ceil((double)i / (double)k);
+    bool check(vector<int> piles, int h, int k) {
+        long long total = 0;
+        for (int i : piles) {
+            total += (i + k - 1)/k;
         }
-        return ans;
+
+        if (total <= h) {
+            return true;
+        }
+        return false;
     }
 
     int minEatingSpeed(vector<int>& piles, int h) {
         int k = 0;
-        int l = 1;
+        int low = 1;
         int high = piles[0];
-        int n = piles.size();
+        int mid = 0;
         int ans = 0;
-        for(int i : piles){
-            if(i > high){
-                high = i;
-            }
+
+        for (int i : piles) {
+            high = max(high, i);
         }
 
-        while(l <= high){
-            int m = l + (high - l)/2;
-            long long val = check(piles, m, n);
-            if(val <= h){
-                ans = m;
-                high = m - 1;
+        while (low <= high) {
+            mid = low + (high - low) / 2;
+            if (check(piles, h, mid)) {
+                ans = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
-            else{
-                l = m + 1;
-            }
+            
         }
         return ans;
     }
