@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0876-middle-of-the-linked-list](https://github.com/aditya-git0503/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-git0503/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya-git0503/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aditya-git0503/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-git0503/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## String
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2104-sum-of-subarray-ranges](https://github.com/aditya-git0503/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/aditya-git0503/Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/aditya-git0503/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aditya-git0503/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditya-git0503/Leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aditya-git0503/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/aditya-git0503/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/aditya-git0503/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/aditya-git0503/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aditya-git0503/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-git0503/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
