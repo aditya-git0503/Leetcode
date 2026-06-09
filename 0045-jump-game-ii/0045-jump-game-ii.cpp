@@ -2,7 +2,6 @@ class Solution {
 public:
     int jump(vector<int>& nums) {
         int farthest = 0;
-        int idx = -1;
         int jumps = 0;
         int currEnd = 0;
         int n = nums.size();
