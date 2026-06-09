@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-git0503/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/aditya-git0503/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-git0503/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-git0503/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/aditya-git0503/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aditya-git0503/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aditya-git0503/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
