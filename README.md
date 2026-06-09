@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/aditya-git0503/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0767-reorganize-string](https://github.com/aditya-git0503/Leetcode/tree/main/0767-reorganize-string/) | Medium |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-git0503/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/aditya-git0503/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/aditya-git0503/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/aditya-git0503/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/aditya-git0503/Leetcode/tree/main/0055-jump-game/) | Medium |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-git0503/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/aditya-git0503/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/aditya-git0503/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/aditya-git0503/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/aditya-git0503/Leetcode/tree/main/0091-decode-ways/) | Medium |
