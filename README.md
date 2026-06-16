@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2833-furthest-point-from-origin](https://github.com/aditya-git0503/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aditya-git0503/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/aditya-git0503/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/aditya-git0503/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/aditya-git0503/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-git0503/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/aditya-git0503/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-git0503/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
