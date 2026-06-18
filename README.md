@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/aditya-git0503/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/aditya-git0503/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aditya-git0503/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/aditya-git0503/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/aditya-git0503/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/aditya-git0503/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/aditya-git0503/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/aditya-git0503/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/aditya-git0503/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aditya-git0503/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/aditya-git0503/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-git0503/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/aditya-git0503/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-git0503/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-git0503/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
@@ -398,4 +402,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/aditya-git0503/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya-git0503/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aditya-git0503/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/aditya-git0503/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
