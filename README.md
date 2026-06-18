@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/aditya-git0503/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/aditya-git0503/Leetcode/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aditya-git0503/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditya-git0503/Leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-git0503/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/aditya-git0503/Leetcode/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/aditya-git0503/Leetcode/tree/main/0078-subsets/) | Medium |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/aditya-git0503/Leetcode/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -348,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-git0503/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/aditya-git0503/Leetcode/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
