@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-git0503/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0016-3sum-closest](https://github.com/aditya-git0503/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0042-trapping-rain-water](https://github.com/aditya-git0503/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/aditya-git0503/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aditya-git0503/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/aditya-git0503/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/aditya-git0503/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/aditya-git0503/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya-git0503/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-git0503/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0016-3sum-closest](https://github.com/aditya-git0503/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-git0503/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/aditya-git0503/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
