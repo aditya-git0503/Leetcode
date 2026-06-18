@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/aditya-git0503/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0396-rotate-function](https://github.com/aditya-git0503/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/aditya-git0503/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aditya-git0503/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/aditya-git0503/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-git0503/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
