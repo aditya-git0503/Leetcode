@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/aditya-git0503/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aditya-git0503/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0542-01-matrix](https://github.com/aditya-git0503/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/aditya-git0503/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0733-flood-fill](https://github.com/aditya-git0503/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/aditya-git0503/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/aditya-git0503/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aditya-git0503/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/aditya-git0503/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/aditya-git0503/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/aditya-git0503/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/aditya-git0503/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0396-rotate-function](https://github.com/aditya-git0503/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/aditya-git0503/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0542-01-matrix](https://github.com/aditya-git0503/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/aditya-git0503/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aditya-git0503/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -395,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/aditya-git0503/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/aditya-git0503/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0542-01-matrix](https://github.com/aditya-git0503/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/aditya-git0503/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/aditya-git0503/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aditya-git0503/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
