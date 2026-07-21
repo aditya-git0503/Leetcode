@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2833-furthest-point-from-origin](https://github.com/aditya-git0503/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aditya-git0503/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/aditya-git0503/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/aditya-git0503/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aditya-git0503/Leetcode/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/aditya-git0503/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-git0503/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aditya-git0503/Leetcode/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Trie
