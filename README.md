@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya-git0503/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-git0503/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-git0503/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/aditya-git0503/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/aditya-git0503/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/aditya-git0503/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aditya-git0503/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/aditya-git0503/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0130-surrounded-regions](https://github.com/aditya-git0503/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/aditya-git0503/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/aditya-git0503/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-git0503/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/aditya-git0503/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -394,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aditya-git0503/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-git0503/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/aditya-git0503/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya-git0503/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/aditya-git0503/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -405,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya-git0503/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0130-surrounded-regions](https://github.com/aditya-git0503/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/aditya-git0503/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/aditya-git0503/Leetcode/tree/main/0207-course-schedule/) | Medium |
