@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-git0503/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/aditya-git0503/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/aditya-git0503/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-git0503/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya-git0503/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/aditya-git0503/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-git0503/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/aditya-git0503/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/aditya-git0503/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/aditya-git0503/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-git0503/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0860-lemonade-change](https://github.com/aditya-git0503/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0994-rotting-oranges](https://github.com/aditya-git0503/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-git0503/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-git0503/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/aditya-git0503/Leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aditya-git0503/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aditya-git0503/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
