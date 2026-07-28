@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aditya-git0503/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aditya-git0503/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya-git0503/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/aditya-git0503/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aditya-git0503/Leetcode/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-git0503/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya-git0503/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/aditya-git0503/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya-git0503/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-git0503/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Heap (Priority Queue)
@@ -467,4 +469,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/aditya-git0503/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya-git0503/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
