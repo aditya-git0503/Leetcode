@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aditya-git0503/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/aditya-git0503/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aditya-git0503/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aditya-git0503/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya-git0503/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/aditya-git0503/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aditya-git0503/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/aditya-git0503/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-git0503/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2121-intervals-between-identical-elements](https://github.com/aditya-git0503/Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/aditya-git0503/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-git0503/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aditya-git0503/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -152,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-git0503/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya-git0503/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/aditya-git0503/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya-git0503/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-git0503/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -179,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/aditya-git0503/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/aditya-git0503/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/aditya-git0503/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
