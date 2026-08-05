@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/aditya-git0503/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-git0503/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/aditya-git0503/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0695-max-area-of-island](https://github.com/aditya-git0503/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aditya-git0503/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/aditya-git0503/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/aditya-git0503/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/aditya-git0503/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/aditya-git0503/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0695-max-area-of-island](https://github.com/aditya-git0503/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aditya-git0503/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/aditya-git0503/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/aditya-git0503/Leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/aditya-git0503/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/aditya-git0503/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/aditya-git0503/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -416,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/aditya-git0503/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya-git0503/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0695-max-area-of-island](https://github.com/aditya-git0503/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aditya-git0503/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aditya-git0503/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -427,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/aditya-git0503/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0542-01-matrix](https://github.com/aditya-git0503/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0695-max-area-of-island](https://github.com/aditya-git0503/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aditya-git0503/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/aditya-git0503/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aditya-git0503/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
