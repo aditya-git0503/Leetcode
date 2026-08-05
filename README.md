@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/aditya-git0503/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/aditya-git0503/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/aditya-git0503/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/aditya-git0503/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya-git0503/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/aditya-git0503/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aditya-git0503/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/aditya-git0503/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aditya-git0503/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/aditya-git0503/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/aditya-git0503/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aditya-git0503/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/aditya-git0503/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/aditya-git0503/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aditya-git0503/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/aditya-git0503/Leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -481,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/aditya-git0503/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/aditya-git0503/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -501,4 +505,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/aditya-git0503/Leetcode/tree/main/0877-stone-game/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/aditya-git0503/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/aditya-git0503/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
