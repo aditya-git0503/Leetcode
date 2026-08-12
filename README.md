@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2121-intervals-between-identical-elements](https://github.com/aditya-git0503/Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/aditya-git0503/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-git0503/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya-git0503/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditya-git0503/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2615-sum-of-distances](https://github.com/aditya-git0503/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-git0503/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aditya-git0503/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya-git0503/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditya-git0503/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-git0503/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/aditya-git0503/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya-git0503/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-git0503/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya-git0503/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
