@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aditya-git0503/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditya-git0503/Leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-git0503/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aditya-git0503/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aditya-git0503/Leetcode/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-git0503/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/aditya-git0503/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aditya-git0503/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/aditya-git0503/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aditya-git0503/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
