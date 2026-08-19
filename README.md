@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/aditya-git0503/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/aditya-git0503/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/aditya-git0503/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/aditya-git0503/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aditya-git0503/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditya-git0503/Leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-git0503/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/aditya-git0503/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0767-reorganize-string](https://github.com/aditya-git0503/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0860-lemonade-change](https://github.com/aditya-git0503/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/aditya-git0503/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditya-git0503/Leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aditya-git0503/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aditya-git0503/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/aditya-git0503/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/aditya-git0503/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/aditya-git0503/Leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/aditya-git0503/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/aditya-git0503/Leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/aditya-git0503/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aditya-git0503/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -264,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/aditya-git0503/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/aditya-git0503/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aditya-git0503/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/aditya-git0503/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-git0503/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/aditya-git0503/Leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aditya-git0503/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
