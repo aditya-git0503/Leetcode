@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aditya-git0503/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditya-git0503/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditya-git0503/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-git0503/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/aditya-git0503/Leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aditya-git0503/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/aditya-git0503/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/aditya-git0503/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-git0503/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-git0503/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/aditya-git0503/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/aditya-git0503/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aditya-git0503/Leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
